@@ -28,7 +28,7 @@ Alejandra como CEO de dulces ilusiones lleva a cabo casi todo el proceso de vent
 ### Nuestra Propuesta
 Al analizar las dificultades de Alejandra, ideamos crear una plataforma que le pueda facilitar el proceso de venta así como llegar a clientes potenciales. Asi mismo agilizar el proceso de cotización al mostrar los precios directamente en la página con posibilidad pe personalizar el pedido.
 
-#### Objetivos del e-commerce
+
 
  - Crear una base de datos de clientes
  - Ofrecer a los clientes una nueva opción de contacto sin necesidad de acudir a la tienda física.
@@ -49,7 +49,7 @@ El resultado es el siguiente:
 
 ### Empathy Map
 
-### Customer Journey Map
+
 ![offline](images/offline.png)
 ![online](images/online.png)
 
