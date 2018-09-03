@@ -5,3 +5,7 @@ Prototipo de alta fidelidad:
 https://marvelapp.com/4363gje/screen/47337421
 
 Video de loom:
+https://www.useloom.com/
+
+Medium:
+https://medium.com/
