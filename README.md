@@ -14,9 +14,8 @@ Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la
 ## Nuestro cliente :cake:
 
 **Alejandra Velasco** diseñadora de sueños en la pastelería boutique **"Dulces Ilusiones”** nos a contratado con el propósito de brindar a sus clientes la mejor experiencia en el proceso de compra, así como hacer crecer su negocio, llegar a nuevo público y por ende aumentar sus ventas.
-![logo](/images/logo.png)
 
-Alejandra nos contrata con el objetivo de ofrecer a sus 
+![logo](/images/logo.png)
 
 ### Investigación y estrategia: [ver proceso de documentación en google site](https://sites.google.com/view/e1comerce/p%C3%A1gina-principal)
 
