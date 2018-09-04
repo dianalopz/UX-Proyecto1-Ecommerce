@@ -26,3 +26,5 @@ Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la
 ### Video de loom: [video de documentación](https://www.useloom.com/)
 
 ### Medium: [post en medium](https://medium.com/)
+
+### Presentación: [storytelling](https://docs.google.com/presentation/d/1CtmKtfDCmq-uXsbafL9mLtgqU6YIVMPXBQV2tWETfVQ/edit#slide=id.g4155aa4a16_1_0)
