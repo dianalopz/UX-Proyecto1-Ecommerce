@@ -9,7 +9,9 @@ El e-commerce o comercio electrónico es un método de compraventa de bienes, pr
 
 Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la banda ancha, así como por el creciente interés de los usuarios a comprar por Internet.
 
+
 > Aumentar **las ventas es siempre un desafío para cualquier emprendimiento**. Para aquellos que tienen una tienda física dar los primeros pasos online requiere de un estudio minucioso y de una inversión mínima para empezar el emprendimiento de forma sustentable.
+
 
 ## Nuestro cliente :cake:
 
