@@ -1,11 +1,27 @@
-Proceso de documentación:
-https://sites.google.com/view/e1comerce/p%C3%A1gina-principal
+## UX Proyecto 1
 
-Prototipo de alta fidelidad:
-https://marvelapp.com/4363gje/screen/47337421
+# Propuesta de e-commerce
 
-Video de loom:
-https://www.useloom.com/
+### Para empezar ...
+#### ¿Que es el e-commerce?
 
-Medium:
-https://medium.com/
+El e-commerce o comercio electrónico es un método de compraventa de bienes, productos o servicios valiéndose de internet como medio, es decir, comerciar de manera online.
+
+Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la banda ancha, así como por el creciente interés de los usuarios a comprar por Internet.
+
+> Aumentar **las ventas es siempre un desafío para cualquier emprendimiento**. Para aquellos que tienen una tienda física dar los primeros pasos online requiere de un estudio minucioso y de una inversión mínima para empezar el emprendimiento de forma sustentable.
+
+## Nuestro cliente :cake:
+
+**Alejandra Velasco** diseñadora de sueños en la pastelería boutique **"Dulces Ilusiones”** nos a contratado con el propósito de brindar a sus clientes la mejor experiencia en el proceso de compra, así como hacer crecer su negocio, llegar a nuevo público y por ende aumentar sus ventas.
+![logo](/images/logo.png)
+
+Alejandra nos contrata con el objetivo de ofrecer a sus 
+
+### Investigación y estrategia: [ver proceso de documentación en google site](https://sites.google.com/view/e1comerce/p%C3%A1gina-principal)
+
+### Propuesta de diseño: [prototipo de alta fidelidad](https://marvelapp.com/4363gje/screen/47337421)
+
+### Video de loom: [video de documentación](https://www.useloom.com/)
+
+### Medium: [post en medium](https://medium.com/)
