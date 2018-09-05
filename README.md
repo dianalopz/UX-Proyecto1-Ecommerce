@@ -25,6 +25,6 @@ Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la
 
 ### Video de loom: [video de documentación](https://www.useloom.com/share/506bfc0bbf994f7aa2d743486e062c22)
 
-### Medium: [post en medium](https://medium.com/)
+### Medium: [post en medium](https://medium.com/@sofaamouroso/nuestro-primer-e-commerce-60a96c76775b)
 
 ### Presentación: [storytelling](https://docs.google.com/presentation/d/1CtmKtfDCmq-uXsbafL9mLtgqU6YIVMPXBQV2tWETfVQ/edit#slide=id.g4155aa4a16_1_0)
