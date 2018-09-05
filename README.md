@@ -23,7 +23,7 @@ Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la
 
 ### Propuesta de diseño: [prototipo de alta fidelidad](https://marvelapp.com/4363gje/screen/47337421)
 
-### Video de loom: [video de documentación](https://www.useloom.com/)
+### Video de loom: [video de documentación](https://www.useloom.com/share/506bfc0bbf994f7aa2d743486e062c22)
 
 ### Medium: [post en medium](https://medium.com/)
 
